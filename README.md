@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 The purpose of this analysis was to develop Dana's webpage on UFO sightings by adding the capability of filtering for multiple criteria at the same time. In addition to "date", filters were added for "city", "state", "country", and "shape".
 
-##Results
+## Results
 Visitors on Dana's webpage can now filter the data for 5 different criteria including:
 1. Date
 2. City
@@ -13,7 +13,7 @@ Visitors on Dana's webpage can now filter the data for 5 different criteria incl
 
 ![this is an image](https://github.com/ncalson/Chal-11_UFOs/blob/main/UFO%20Search%20Criteria.png)
 
-##Summary
+## Summary
 A major drawback of this new design is the filter search function only works for exact matches in results, limiting one's findings.
 
 Two recommendations for improvement and/or further development include:
