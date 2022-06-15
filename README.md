@@ -10,6 +10,7 @@ Visitors on Dana's webpage can now filter the data for 5 different criteria incl
 3. State
 4. Country
 5. Shape
+
 ![this is an image](https://github.com/ncalson/Chal-11_UFOs/blob/main/UFO%20Search%20Criteria.png)
 
 ##Summary
