@@ -13,6 +13,13 @@ Visitors on Dana's webpage can now filter the data for 5 different criteria incl
 
 ![this is an image](https://github.com/ncalson/Chal-11_UFOs/blob/main/UFO%20Search%20Criteria.png)
 
+Below is a picture of an example search using the webpage:
+![this is an image](https://github.com/ncalson/Chal-11_UFOs/blob/main/Example%20Search.png)
+These results were available after completing two consecutive filter searches:
+1. The date "1/2/2010" was searched
+2. The city "waxhaw" was searched
+
+
 ## Summary
 A major drawback of this new design is the filter search function only works for exact matches in results, limiting one's findings.
 
